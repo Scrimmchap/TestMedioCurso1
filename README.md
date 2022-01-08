@@ -1,2 +1,2 @@
-# TestMedioCurso1
-Test
+Evaluacion Final de ITIC. 
+Examen de CURP
